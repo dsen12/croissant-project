@@ -1,0 +1,21 @@
+body {
+    background-color: #f8e8a6;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+    color: orange;
+}
+
+.croissant-image {
+    border-radius: 60px;
+    width: 800px;
+    margin: 0 auto;
+    display: block;
+    padding: 40px;
+
+}
